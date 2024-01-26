@@ -36,3 +36,13 @@ out/
 
 ### VS Code ###
 .vscode/
+/src/main/resources/application.properties
+/src/main/resources/keystore.p12
+/phlogs/pyh.log
+/phlogs/pyh2023-06-01-01-26.log
+/phlogs/pyh2023-06-01-01-27.log
+/phlogs/pyh2023-06-01-01-29.log
+/phlogs/pyh2023-06-01-01-32.log
+/phlogs/pyh2023-06-01-01-35.log
+/phlogs/pyh2023-06-01-01-45.log
+/phlogs/pyh2023-06-01-01-51.log
